@@ -6,6 +6,7 @@
  * arr = [-5, 2, 4, 6, 10], t = 6 > Should return 3
  * arr = [-5, 2, 4, 6, 10], t = 20 > Should return -1
  */
+
 /**
  * search a number
  * @param arr
